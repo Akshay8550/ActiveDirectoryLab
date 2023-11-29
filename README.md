@@ -9,12 +9,13 @@ In this project we're going to walk through how to create an Active Directory ho
 <h2>Languages and Utilities</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+<!--- <b>Diskpart</b>--!>
 
 <h2>Environments</h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> (21H2)<br>
 - <b>Windows Server 2019</b>
+
 <h2>Architecture</h2>
 <p align="center">
 <img src="https://i.imgur.com/B8c8teJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -24,6 +25,7 @@ In this project we're going to walk through how to create an Active Directory ho
 </ul>
 
 VirtualBox Installation & Setup: <br/>
+<br/>
 <p align="left">
 <img src="https://i.imgur.com/o7WZbRL.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/fLR3fMO.png" height="45%" width="45%" alt="Disk Sanitization Steps"/> <br/>
