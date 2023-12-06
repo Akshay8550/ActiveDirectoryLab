@@ -9,7 +9,10 @@ Corfiguring and running this lab will definitely help develop understanding of h
 
 <h2>Languages and Utilities</h2>
 
-- <b>PowerShell</b> 
+- <b>PowerShell</b>
+- <b>Linux (CLI)</b>
+- <b>Server Manager (Domain Controller)</b>
+
 <!--- <b>Diskpart</b>--!>
 
 <h2>Environments</h2>
