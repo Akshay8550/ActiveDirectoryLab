@@ -103,6 +103,67 @@ For Internal Network only.<br/>
 <br/>
 <img src="https://i.imgur.com/N5zzPRy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
+
+Our Network Infrastructure is working properly:<br/>
+<br/>
+<img src="https://i.imgur.com/gHnNp0T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+We have 1 lease from our client computer(in Domain Controller):<br/>
+<br/>
+<img src="https://i.imgur.com/fiqQmay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+Computer is listed in Active Directory:<br/>
+<br/>
+<img src="https://i.imgur.com/jUX5qYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+Logged In successfully in one of the users:<br/>
+<br/>
+Example 01:<br/>
+<br/>
+<img src="https://i.imgur.com/sLx7LkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+
+Example 02:<br/>
+<br/>
+<img src="https://i.imgur.com/su7kRFx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+
+<br/>
+<br/>
+The End..!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 <!-- <br />
 Select the disk:  <br/>
