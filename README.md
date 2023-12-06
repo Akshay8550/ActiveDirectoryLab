@@ -3,7 +3,8 @@
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
-In this project we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Corfiguring and running this lab will definitely help develop understanding of how active directory and windows networking works, so I'd highly recommend running through it a couple times, ask questions where stuff is unclear, and eventually try to build it on your own without guid. Please let me know if you have any questions!
+In this project we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. We will configure a Domain Controller & a Windows Client.
+Corfiguring and running this lab will definitely help develop understanding of how active directory and windows networking works, so I'd highly recommend running through it a couple times, and eventually try to build it on your own without guid. Please let me know if you have any questions!
 <br />
 
 <h2>Languages and Utilities</h2>
