@@ -113,9 +113,13 @@ DHCP is Configured & Up: <br/>
 </ul>
 PowerShell script is attached <br/>
 This PowerShell script generates 1000+ names for our dummy users<br/>
-`<br/>
-Set-ExecutionPolicy Unrestricted<br/>
-<br/>`
+<br/>
+<pre>
+<code>
+Set-ExecutionPolicy Unrestricted
+</code>
+</pre>
+
 <br/>
 <img src="https://i.imgur.com/tjRYroW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
