@@ -156,6 +156,7 @@ Example 01:<br/>
 Example 02:<br/>
 <br/>
 <img src="https://i.imgur.com/su7kRFx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+<br/>
 <h2>Conclusion</h2>
 This project provides a comprehensive guide for building and managing your own Active Directory home lab. Through detailed instructions, visual aids, and practical examples, you'll gain valuable skills in network administration, user management, and automation.
 
