@@ -33,13 +33,11 @@ This project guides you through building a <b>functional Active Directory home l
 - <b>Linux (CLI)</b>
 - <b>Server Manager (Domain Controller)</b>
 
-<!--- <b>Diskpart</b>--!>
-
 <h2>Environments</h2>
 
-- <b>Windows 10</b> (21H2)<br>
-- <b>Windows Server 2019</b><br/>
-- <b>Virtualization Platform:</b> Oracle VM VirtualBox<br/>
+ - <b>Windows 10</b> (21H2)
+ - <b>Windows Server 2019</b>
+ - <b>Virtualization Platform:</b> Oracle VM VirtualBox
 
 <h2>Architecture</h2>
 <p align="center">
